@@ -4,6 +4,6 @@ $b=4;
 if (a<b){
 echo "Hi ";
 }  else {
-    echo "By";    
+    echo "By-By";    
 }
 ?>
